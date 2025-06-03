@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  ingressclass:
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2025-06-03T11:55:37.888758+02:00"
+    description: Helm Chart representing a single IngressClass Kubernetes API object
+    digest: 83300f8b496ceb1753cb3758cdd41454b7be64fc864c2da9b48043e67dd4e942
+    home: https://github.com/al26p/k8s-as-helm
+    icon: https://ameijer.github.io/k8s-as-helm/icon.png
+    keywords:
+    - ingressClass
+    - api
+    - primitives
+    maintainers:
+    - name: al26p
+      url: https://github.com/al26p
+    name: ingressclass
+    urls:
+    - https://github.com/al26p/k8s-as-helm/releases/download/ingressclass-1.0.0/ingressclass-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-06-03T11:55:37.887794+02:00"

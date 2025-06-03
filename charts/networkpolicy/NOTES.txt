@@ -1,2 +1,0 @@
-
-The Network Policy Chart {{ .Release.Name }} has been installed into your cluster!
